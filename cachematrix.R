@@ -1,5 +1,8 @@
 ############################################################################
 ## A pair of functions for dealing with caching the inverse of matrices   ##
+##                                                                        ##
+## Based on "Example: Caching the Mean of a Vector" by Roger D. Peng, PhD ##                                                                ##
+##                                                                        ##
 ############################################################################
 
 ## makeCacheMatrix returns a list containing four functions
